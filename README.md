@@ -20,7 +20,7 @@ Usage
 To use this buildpack, you should prepare .buildpacks file that contains this buildpack url and your real buildpack url.  
 
     $ cat .buildpacks
-    https://github.com/HYPERHYPER/heroku-buildpack-ffmpeg.git
+    https://github.com/NEricN/heroku-buildpack-ffmpeg.git
     https://github.com/heroku/heroku-buildpack-ruby.git 
 
 The first build pack is the git URL to this repo.
